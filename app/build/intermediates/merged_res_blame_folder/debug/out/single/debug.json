@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_tile_bg.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-hdpi\\tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_msg_you.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-hdpi\\bg_msg_you.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_messages.png.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-hdpi\\bg_messages.png"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_bg_msg_from.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-hdpi\\bg_msg_from.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_message_right.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\layout\\list_item_message_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\layout_list_item_message_left.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\layout\\list_item_message_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Durimi\\AndroidStudioProjects\\AndroidSocketFileTransferClient\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

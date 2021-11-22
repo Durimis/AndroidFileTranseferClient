@@ -1,0 +1,18 @@
+com/example/androidsocketfiletransferclient/BuildConfig.java
+ com.example.androidsocketfiletransferclient.BuildConfig
+com/example/androidsocketfiletransferclient/model/MessagesListAdapter.java
+ com.example.androidsocketfiletransferclient.model.MessagesListAdapter
+com/example/androidsocketfiletransferclient/model/Message.java
+ com.example.androidsocketfiletransferclient.model.Message
+functions/Deflate.java
+ functions.Deflate
+functions/AesEncrypt.java
+ functions.AesEncrypt
+com/example/androidsocketfiletransferclient/MainActivity.java
+ com.example.androidsocketfiletransferclient.MainActivity
+ com.example.androidsocketfiletransferclient.MainActivity$1
+ com.example.androidsocketfiletransferclient.MainActivity$2
+ com.example.androidsocketfiletransferclient.MainActivity$3
+ com.example.androidsocketfiletransferclient.MainActivity$ClientThread
+ com.example.androidsocketfiletransferclient.MainActivity$ClientThread$1
+ com.example.androidsocketfiletransferclient.MainActivity$ServerThread
